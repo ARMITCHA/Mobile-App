@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "664817094247",
+    "firebase_url": "https://armitcha-5d4fd.firebaseio.com",
+    "project_id": "armitcha-5d4fd",
+    "storage_bucket": "armitcha-5d4fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664817094247:android:2dd418e8ab5c5736",
+        "android_client_info": {
+          "package_name": "com.example.elcot.armitcha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664817094247-i4er2bnm74ib3b53u33inv1ia78cb7nc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.elcot.armitcha",
+            "certificate_hash": "469edb0696f2b647a4b7b7c3f2f4adcfacf77998"
+          }
+        },
+        {
+          "client_id": "664817094247-is5muv6ovf0h2tpm93pj4crlhha19nvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV7F7StQQjbMYnSG3_npkg1O4YXW9Yhs0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664817094247-is5muv6ovf0h2tpm93pj4crlhha19nvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
